@@ -1,0 +1,19 @@
+variable,dtype,missing_pct,unique_values
+id,int64,0.0,27901
+Gender,str,0.0,2
+Age,float64,0.0,34
+City,str,0.0,52
+Profession,str,0.0,14
+Academic Pressure,float64,0.0,6
+Work Pressure,float64,0.0,3
+CGPA,float64,0.0,332
+Study Satisfaction,float64,0.0,6
+Job Satisfaction,float64,0.0,5
+Sleep Duration,str,0.0,5
+Dietary Habits,str,0.0,4
+Degree,str,0.0,28
+Have you ever had suicidal thoughts ?,str,0.0,2
+Work/Study Hours,float64,0.0,13
+Financial Stress,float64,0.01075230278484642,5
+Family History of Mental Illness,str,0.0,2
+Depression,int64,0.0,2
