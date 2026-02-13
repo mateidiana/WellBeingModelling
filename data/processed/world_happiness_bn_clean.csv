@@ -1,0 +1,201 @@
+Country,Climate_Index,Corruption_Perception,Crime_Rate,Education_Index,Employment_Rate,Freedom,GDP_per_Capita,Generosity,Happiness_Score,Healthy_Life_Expectancy,Income_Inequality,Internet_Access,Life_Satisfaction,Mental_Health_Index,Political_Stability,Population,Public_Health_Expenditure,Public_Trust,Social_Support,Unemployment_Rate,Urbanization_Rate,Work_Life_Balance,Year_bin
+Australia,bin_2,bin_3,bin_2,bin_4,bin_1,bin_0,bin_1,bin_4,bin_2,bin_2,bin_3,bin_4,bin_0,bin_4,bin_3,bin_1,bin_0,bin_2,bin_3,bin_2,bin_2,bin_3,2005
+Australia,bin_4,bin_1,bin_3,bin_1,bin_2,bin_2,bin_1,bin_0,bin_4,bin_0,bin_0,bin_2,bin_1,bin_4,bin_3,bin_2,bin_1,bin_1,bin_4,bin_0,bin_3,bin_2,2005
+Australia,bin_3,bin_1,bin_3,bin_4,bin_2,bin_3,bin_4,bin_3,bin_3,bin_1,bin_1,bin_3,bin_4,bin_3,bin_4,bin_1,bin_2,bin_3,bin_2,bin_0,bin_4,bin_2,2005
+Australia,bin_0,bin_1,bin_3,bin_0,bin_0,bin_4,bin_1,bin_3,bin_4,bin_3,bin_0,bin_4,bin_3,bin_0,bin_4,bin_3,bin_3,bin_3,bin_1,bin_4,bin_4,bin_0,2005
+Australia,bin_0,bin_3,bin_0,bin_2,bin_2,bin_4,bin_2,bin_0,bin_1,bin_3,bin_4,bin_3,bin_2,bin_0,bin_2,bin_0,bin_3,bin_0,bin_3,bin_3,bin_2,bin_3,2005
+Australia,bin_4,bin_1,bin_1,bin_0,bin_0,bin_0,bin_3,bin_2,bin_0,bin_1,bin_1,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_4,bin_2,bin_0,bin_0,bin_0,2010
+Australia,bin_1,bin_1,bin_4,bin_3,bin_2,bin_0,bin_0,bin_3,bin_4,bin_0,bin_3,bin_3,bin_3,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_4,bin_4,bin_1,2010
+Australia,bin_4,bin_0,bin_2,bin_0,bin_4,bin_1,bin_1,bin_3,bin_2,bin_4,bin_0,bin_4,bin_3,bin_3,bin_1,bin_0,bin_2,bin_4,bin_1,bin_1,bin_4,bin_2,2010
+Australia,bin_2,bin_1,bin_1,bin_4,bin_3,bin_2,bin_1,bin_3,bin_1,bin_1,bin_4,bin_0,bin_4,bin_0,bin_4,bin_4,bin_4,bin_4,bin_0,bin_3,bin_0,bin_0,2010
+Australia,bin_3,bin_0,bin_4,bin_2,bin_1,bin_1,bin_2,bin_1,bin_4,bin_4,bin_4,bin_0,bin_2,bin_4,bin_4,bin_2,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,2010
+Australia,bin_1,bin_0,bin_2,bin_2,bin_4,bin_1,bin_2,bin_3,bin_1,bin_4,bin_0,bin_2,bin_3,bin_4,bin_2,bin_2,bin_4,bin_0,bin_0,bin_1,bin_1,bin_4,2015
+Australia,bin_2,bin_2,bin_4,bin_3,bin_1,bin_3,bin_3,bin_3,bin_4,bin_4,bin_1,bin_1,bin_1,bin_3,bin_0,bin_3,bin_3,bin_1,bin_3,bin_3,bin_3,bin_2,2015
+Australia,bin_4,bin_3,bin_3,bin_2,bin_1,bin_2,bin_2,bin_1,bin_2,bin_4,bin_1,bin_4,bin_4,bin_1,bin_2,bin_2,bin_2,bin_1,bin_2,bin_4,bin_1,bin_1,2015
+Australia,bin_1,bin_1,bin_0,bin_3,bin_4,bin_4,bin_1,bin_1,bin_3,bin_4,bin_0,bin_3,bin_3,bin_4,bin_4,bin_4,bin_1,bin_1,bin_4,bin_0,bin_0,bin_3,2015
+Australia,bin_4,bin_2,bin_1,bin_1,bin_4,bin_0,bin_2,bin_4,bin_3,bin_3,bin_2,bin_2,bin_0,bin_2,bin_4,bin_3,bin_4,bin_4,bin_0,bin_2,bin_0,bin_1,2015
+Australia,bin_2,bin_0,bin_1,bin_0,bin_4,bin_3,bin_3,bin_2,bin_0,bin_4,bin_3,bin_0,bin_4,bin_2,bin_2,bin_3,bin_3,bin_4,bin_2,bin_4,bin_3,bin_2,2020
+Australia,bin_2,bin_1,bin_0,bin_2,bin_0,bin_2,bin_2,bin_1,bin_3,bin_1,bin_4,bin_1,bin_3,bin_2,bin_4,bin_2,bin_2,bin_4,bin_4,bin_1,bin_1,bin_4,2020
+Australia,bin_1,bin_1,bin_3,bin_1,bin_1,bin_4,bin_4,bin_4,bin_0,bin_4,bin_2,bin_1,bin_2,bin_0,bin_1,bin_0,bin_2,bin_2,bin_3,bin_3,bin_4,bin_0,2020
+Australia,bin_3,bin_3,bin_0,bin_2,bin_1,bin_1,bin_2,bin_0,bin_4,bin_4,bin_2,bin_4,bin_3,bin_1,bin_3,bin_1,bin_1,bin_3,bin_3,bin_0,bin_0,bin_3,2020
+Australia,bin_2,bin_0,bin_2,bin_0,bin_3,bin_0,bin_3,bin_1,bin_4,bin_4,bin_1,bin_1,bin_2,bin_3,bin_3,bin_1,bin_1,bin_0,bin_1,bin_3,bin_2,bin_4,2020
+Brazil,bin_2,bin_0,bin_0,bin_4,bin_4,bin_0,bin_0,bin_4,bin_1,bin_0,bin_0,bin_3,bin_4,bin_0,bin_1,bin_0,bin_2,bin_0,bin_0,bin_2,bin_2,bin_0,2005
+Brazil,bin_2,bin_0,bin_2,bin_4,bin_4,bin_0,bin_4,bin_1,bin_3,bin_1,bin_0,bin_0,bin_2,bin_1,bin_0,bin_1,bin_1,bin_2,bin_0,bin_2,bin_4,bin_2,2005
+Brazil,bin_0,bin_3,bin_2,bin_4,bin_2,bin_3,bin_1,bin_0,bin_3,bin_3,bin_3,bin_2,bin_0,bin_2,bin_1,bin_0,bin_0,bin_3,bin_0,bin_2,bin_3,bin_4,2005
+Brazil,bin_2,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_2,bin_4,bin_3,bin_2,bin_1,bin_1,bin_4,bin_1,bin_3,bin_1,bin_3,bin_2,bin_1,bin_3,bin_4,2005
+Brazil,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_4,bin_4,bin_2,bin_2,bin_0,bin_4,bin_1,bin_0,bin_2,bin_2,bin_1,bin_0,bin_3,bin_4,bin_3,bin_2,2005
+Brazil,bin_1,bin_0,bin_0,bin_4,bin_1,bin_4,bin_1,bin_0,bin_2,bin_0,bin_3,bin_3,bin_4,bin_0,bin_3,bin_3,bin_3,bin_0,bin_3,bin_3,bin_1,bin_2,2010
+Brazil,bin_0,bin_4,bin_2,bin_1,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_3,bin_1,bin_2,bin_1,bin_2,bin_0,bin_2,bin_3,bin_0,bin_3,bin_4,bin_1,2010
+Brazil,bin_2,bin_2,bin_1,bin_4,bin_1,bin_0,bin_2,bin_3,bin_3,bin_1,bin_2,bin_4,bin_3,bin_2,bin_4,bin_4,bin_1,bin_0,bin_0,bin_2,bin_2,bin_2,2010
+Brazil,bin_4,bin_2,bin_0,bin_4,bin_1,bin_0,bin_0,bin_2,bin_3,bin_1,bin_1,bin_0,bin_0,bin_3,bin_4,bin_4,bin_4,bin_3,bin_2,bin_0,bin_0,bin_3,2010
+Brazil,bin_2,bin_4,bin_0,bin_3,bin_2,bin_2,bin_0,bin_3,bin_3,bin_3,bin_4,bin_1,bin_4,bin_0,bin_1,bin_0,bin_3,bin_4,bin_0,bin_4,bin_2,bin_3,2010
+Brazil,bin_4,bin_0,bin_3,bin_3,bin_4,bin_3,bin_3,bin_3,bin_4,bin_3,bin_1,bin_2,bin_2,bin_1,bin_1,bin_0,bin_4,bin_3,bin_3,bin_3,bin_4,bin_1,2015
+Brazil,bin_1,bin_4,bin_1,bin_0,bin_3,bin_1,bin_4,bin_2,bin_0,bin_1,bin_3,bin_3,bin_1,bin_0,bin_0,bin_2,bin_0,bin_1,bin_3,bin_4,bin_4,bin_3,2015
+Brazil,bin_4,bin_3,bin_0,bin_1,bin_3,bin_3,bin_2,bin_1,bin_1,bin_1,bin_1,bin_0,bin_1,bin_0,bin_3,bin_4,bin_0,bin_2,bin_2,bin_2,bin_4,bin_2,2015
+Brazil,bin_3,bin_3,bin_2,bin_1,bin_2,bin_4,bin_0,bin_1,bin_0,bin_3,bin_4,bin_0,bin_3,bin_4,bin_2,bin_0,bin_0,bin_0,bin_3,bin_4,bin_3,bin_2,2015
+Brazil,bin_1,bin_3,bin_0,bin_4,bin_3,bin_1,bin_1,bin_4,bin_0,bin_2,bin_2,bin_0,bin_2,bin_3,bin_3,bin_0,bin_4,bin_1,bin_4,bin_4,bin_0,bin_4,2015
+Brazil,bin_1,bin_3,bin_3,bin_0,bin_2,bin_4,bin_3,bin_1,bin_4,bin_3,bin_1,bin_2,bin_0,bin_4,bin_0,bin_0,bin_4,bin_2,bin_3,bin_2,bin_3,bin_3,2020
+Brazil,bin_0,bin_2,bin_4,bin_1,bin_3,bin_1,bin_2,bin_2,bin_3,bin_0,bin_3,bin_2,bin_4,bin_2,bin_1,bin_0,bin_3,bin_2,bin_4,bin_1,bin_2,bin_2,2020
+Brazil,bin_0,bin_2,bin_1,bin_4,bin_3,bin_4,bin_4,bin_2,bin_3,bin_2,bin_4,bin_2,bin_3,bin_4,bin_1,bin_2,bin_1,bin_4,bin_4,bin_1,bin_0,bin_2,2020
+Brazil,bin_0,bin_2,bin_0,bin_4,bin_4,bin_0,bin_4,bin_4,bin_3,bin_2,bin_3,bin_1,bin_2,bin_1,bin_3,bin_3,bin_0,bin_2,bin_3,bin_3,bin_3,bin_0,2020
+Brazil,bin_4,bin_4,bin_3,bin_3,bin_3,bin_0,bin_3,bin_2,bin_1,bin_3,bin_3,bin_1,bin_3,bin_0,bin_3,bin_1,bin_3,bin_3,bin_4,bin_1,bin_3,bin_4,2020
+Canada,bin_3,bin_1,bin_2,bin_3,bin_0,bin_2,bin_3,bin_0,bin_4,bin_1,bin_0,bin_0,bin_2,bin_3,bin_2,bin_4,bin_0,bin_4,bin_0,bin_0,bin_0,bin_1,2005
+Canada,bin_1,bin_1,bin_2,bin_0,bin_3,bin_4,bin_1,bin_1,bin_0,bin_3,bin_0,bin_1,bin_4,bin_3,bin_0,bin_4,bin_0,bin_1,bin_2,bin_3,bin_1,bin_1,2005
+Canada,bin_1,bin_4,bin_3,bin_2,bin_2,bin_3,bin_4,bin_4,bin_1,bin_0,bin_2,bin_2,bin_3,bin_4,bin_4,bin_3,bin_3,bin_1,bin_2,bin_4,bin_4,bin_2,2005
+Canada,bin_4,bin_2,bin_2,bin_1,bin_1,bin_0,bin_0,bin_3,bin_1,bin_2,bin_2,bin_1,bin_1,bin_3,bin_2,bin_4,bin_3,bin_3,bin_4,bin_4,bin_1,bin_1,2005
+Canada,bin_2,bin_4,bin_4,bin_0,bin_1,bin_1,bin_0,bin_0,bin_3,bin_1,bin_3,bin_4,bin_1,bin_3,bin_2,bin_0,bin_3,bin_3,bin_2,bin_0,bin_2,bin_3,2005
+Canada,bin_3,bin_2,bin_1,bin_2,bin_2,bin_2,bin_4,bin_3,bin_0,bin_3,bin_2,bin_2,bin_0,bin_2,bin_2,bin_2,bin_2,bin_3,bin_4,bin_2,bin_2,bin_2,2010
+Canada,bin_4,bin_2,bin_3,bin_3,bin_0,bin_3,bin_0,bin_4,bin_3,bin_0,bin_0,bin_2,bin_2,bin_0,bin_0,bin_1,bin_1,bin_4,bin_2,bin_0,bin_4,bin_0,2010
+Canada,bin_1,bin_2,bin_0,bin_4,bin_1,bin_3,bin_3,bin_4,bin_0,bin_4,bin_0,bin_1,bin_4,bin_1,bin_0,bin_2,bin_0,bin_1,bin_0,bin_3,bin_2,bin_3,2010
+Canada,bin_0,bin_2,bin_2,bin_4,bin_1,bin_0,bin_2,bin_1,bin_1,bin_2,bin_3,bin_2,bin_0,bin_0,bin_3,bin_0,bin_4,bin_3,bin_0,bin_2,bin_4,bin_0,2010
+Canada,bin_1,bin_0,bin_2,bin_3,bin_4,bin_4,bin_0,bin_4,bin_2,bin_3,bin_3,bin_4,bin_3,bin_3,bin_3,bin_3,bin_1,bin_0,bin_3,bin_2,bin_4,bin_1,2010
+Canada,bin_0,bin_3,bin_1,bin_0,bin_3,bin_4,bin_0,bin_4,bin_2,bin_3,bin_1,bin_4,bin_2,bin_0,bin_0,bin_1,bin_1,bin_0,bin_2,bin_3,bin_3,bin_3,2015
+Canada,bin_0,bin_3,bin_3,bin_3,bin_0,bin_0,bin_4,bin_1,bin_3,bin_2,bin_0,bin_2,bin_1,bin_1,bin_2,bin_3,bin_1,bin_2,bin_0,bin_3,bin_2,bin_2,2015
+Canada,bin_4,bin_2,bin_0,bin_3,bin_0,bin_4,bin_0,bin_0,bin_3,bin_0,bin_1,bin_3,bin_0,bin_1,bin_4,bin_3,bin_2,bin_4,bin_1,bin_3,bin_1,bin_2,2015
+Canada,bin_0,bin_0,bin_1,bin_0,bin_3,bin_3,bin_2,bin_1,bin_1,bin_2,bin_1,bin_2,bin_3,bin_0,bin_0,bin_4,bin_3,bin_2,bin_1,bin_0,bin_2,bin_4,2015
+Canada,bin_0,bin_4,bin_1,bin_1,bin_2,bin_1,bin_0,bin_4,bin_2,bin_1,bin_0,bin_2,bin_4,bin_1,bin_1,bin_4,bin_2,bin_0,bin_1,bin_0,bin_0,bin_1,2015
+Canada,bin_0,bin_2,bin_2,bin_1,bin_4,bin_4,bin_3,bin_4,bin_4,bin_4,bin_0,bin_0,bin_3,bin_1,bin_2,bin_2,bin_2,bin_2,bin_2,bin_2,bin_1,bin_2,2020
+Canada,bin_1,bin_3,bin_0,bin_1,bin_4,bin_4,bin_1,bin_1,bin_0,bin_1,bin_2,bin_0,bin_0,bin_0,bin_0,bin_0,bin_0,bin_4,bin_3,bin_3,bin_2,bin_0,2020
+Canada,bin_2,bin_0,bin_4,bin_3,bin_2,bin_2,bin_4,bin_4,bin_4,bin_2,bin_0,bin_3,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,bin_0,bin_1,bin_2,bin_4,2020
+Canada,bin_0,bin_0,bin_0,bin_0,bin_2,bin_4,bin_0,bin_1,bin_0,bin_2,bin_3,bin_4,bin_2,bin_4,bin_3,bin_0,bin_4,bin_0,bin_0,bin_0,bin_1,bin_4,2020
+Canada,bin_0,bin_2,bin_2,bin_1,bin_3,bin_1,bin_0,bin_1,bin_2,bin_3,bin_2,bin_0,bin_3,bin_0,bin_0,bin_3,bin_0,bin_1,bin_2,bin_2,bin_3,bin_2,2020
+China,bin_1,bin_0,bin_2,bin_0,bin_2,bin_3,bin_1,bin_0,bin_4,bin_2,bin_2,bin_0,bin_1,bin_2,bin_3,bin_0,bin_0,bin_1,bin_4,bin_2,bin_2,bin_3,2005
+China,bin_3,bin_1,bin_1,bin_4,bin_3,bin_2,bin_3,bin_4,bin_3,bin_3,bin_4,bin_4,bin_2,bin_1,bin_0,bin_0,bin_2,bin_3,bin_4,bin_2,bin_1,bin_3,2005
+China,bin_0,bin_3,bin_0,bin_3,bin_2,bin_3,bin_4,bin_2,bin_0,bin_1,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_3,bin_1,bin_2,bin_4,bin_0,bin_4,2005
+China,bin_4,bin_0,bin_0,bin_4,bin_4,bin_1,bin_4,bin_1,bin_3,bin_0,bin_1,bin_0,bin_4,bin_0,bin_3,bin_1,bin_1,bin_0,bin_4,bin_0,bin_2,bin_0,2005
+China,bin_1,bin_1,bin_3,bin_2,bin_4,bin_0,bin_4,bin_0,bin_1,bin_4,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_1,bin_2,bin_1,bin_2,bin_3,bin_0,2005
+China,bin_3,bin_3,bin_4,bin_0,bin_3,bin_3,bin_0,bin_1,bin_0,bin_1,bin_3,bin_0,bin_4,bin_1,bin_3,bin_0,bin_1,bin_1,bin_4,bin_4,bin_4,bin_4,2010
+China,bin_1,bin_2,bin_2,bin_0,bin_1,bin_3,bin_2,bin_0,bin_1,bin_0,bin_4,bin_3,bin_3,bin_0,bin_3,bin_4,bin_2,bin_2,bin_2,bin_4,bin_2,bin_1,2010
+China,bin_3,bin_2,bin_0,bin_2,bin_0,bin_2,bin_2,bin_3,bin_0,bin_4,bin_2,bin_2,bin_4,bin_4,bin_3,bin_4,bin_4,bin_3,bin_4,bin_3,bin_2,bin_4,2010
+China,bin_3,bin_2,bin_3,bin_1,bin_2,bin_3,bin_2,bin_2,bin_1,bin_1,bin_4,bin_3,bin_3,bin_4,bin_2,bin_3,bin_1,bin_2,bin_1,bin_3,bin_0,bin_2,2010
+China,bin_4,bin_1,bin_2,bin_2,bin_4,bin_2,bin_0,bin_1,bin_2,bin_0,bin_4,bin_2,bin_0,bin_3,bin_0,bin_4,bin_1,bin_4,bin_4,bin_3,bin_2,bin_4,2010
+China,bin_0,bin_0,bin_4,bin_0,bin_2,bin_4,bin_0,bin_2,bin_0,bin_0,bin_4,bin_3,bin_3,bin_1,bin_1,bin_3,bin_4,bin_2,bin_2,bin_2,bin_2,bin_0,2015
+China,bin_3,bin_2,bin_2,bin_4,bin_3,bin_3,bin_0,bin_2,bin_3,bin_2,bin_1,bin_2,bin_1,bin_3,bin_1,bin_1,bin_2,bin_4,bin_3,bin_4,bin_2,bin_1,2015
+China,bin_3,bin_0,bin_3,bin_1,bin_3,bin_3,bin_1,bin_4,bin_3,bin_0,bin_1,bin_3,bin_0,bin_0,bin_2,bin_1,bin_1,bin_1,bin_3,bin_4,bin_4,bin_4,2015
+China,bin_4,bin_4,bin_3,bin_4,bin_2,bin_4,bin_3,bin_1,bin_2,bin_4,bin_2,bin_1,bin_2,bin_1,bin_1,bin_4,bin_3,bin_2,bin_4,bin_3,bin_2,bin_2,2015
+China,bin_3,bin_4,bin_2,bin_1,bin_0,bin_4,bin_2,bin_3,bin_0,bin_0,bin_1,bin_3,bin_4,bin_4,bin_3,bin_4,bin_4,bin_4,bin_1,bin_0,bin_0,bin_4,2015
+China,bin_4,bin_1,bin_4,bin_3,bin_4,bin_4,bin_3,bin_4,bin_1,bin_0,bin_4,bin_2,bin_3,bin_4,bin_1,bin_4,bin_1,bin_2,bin_1,bin_1,bin_0,bin_0,2020
+China,bin_4,bin_4,bin_2,bin_3,bin_1,bin_4,bin_3,bin_4,bin_3,bin_3,bin_1,bin_0,bin_4,bin_2,bin_0,bin_1,bin_0,bin_2,bin_1,bin_4,bin_1,bin_2,2020
+China,bin_3,bin_4,bin_2,bin_0,bin_2,bin_4,bin_3,bin_0,bin_4,bin_0,bin_0,bin_0,bin_4,bin_2,bin_1,bin_1,bin_4,bin_4,bin_2,bin_0,bin_4,bin_4,2020
+China,bin_1,bin_2,bin_2,bin_4,bin_2,bin_0,bin_2,bin_0,bin_4,bin_1,bin_4,bin_2,bin_0,bin_2,bin_0,bin_1,bin_2,bin_3,bin_4,bin_1,bin_1,bin_0,2020
+China,bin_4,bin_0,bin_4,bin_2,bin_3,bin_3,bin_4,bin_1,bin_1,bin_3,bin_0,bin_0,bin_3,bin_1,bin_4,bin_2,bin_0,bin_0,bin_1,bin_3,bin_3,bin_3,2020
+France,bin_2,bin_3,bin_3,bin_2,bin_3,bin_3,bin_3,bin_2,bin_4,bin_3,bin_4,bin_3,bin_2,bin_2,bin_4,bin_3,bin_4,bin_2,bin_4,bin_1,bin_1,bin_2,2005
+France,bin_1,bin_0,bin_1,bin_4,bin_4,bin_2,bin_2,bin_4,bin_0,bin_1,bin_4,bin_4,bin_3,bin_2,bin_4,bin_1,bin_0,bin_3,bin_1,bin_3,bin_1,bin_3,2005
+France,bin_4,bin_0,bin_2,bin_0,bin_4,bin_3,bin_2,bin_0,bin_1,bin_2,bin_0,bin_4,bin_4,bin_2,bin_0,bin_4,bin_2,bin_4,bin_0,bin_0,bin_2,bin_4,2005
+France,bin_4,bin_4,bin_1,bin_1,bin_1,bin_1,bin_0,bin_0,bin_3,bin_3,bin_0,bin_3,bin_0,bin_4,bin_0,bin_0,bin_1,bin_3,bin_3,bin_3,bin_0,bin_0,2005
+France,bin_1,bin_3,bin_1,bin_4,bin_2,bin_3,bin_2,bin_3,bin_3,bin_0,bin_1,bin_4,bin_0,bin_3,bin_3,bin_4,bin_4,bin_0,bin_0,bin_1,bin_4,bin_0,2005
+France,bin_1,bin_4,bin_4,bin_2,bin_3,bin_2,bin_0,bin_0,bin_1,bin_2,bin_1,bin_4,bin_3,bin_1,bin_3,bin_3,bin_4,bin_1,bin_0,bin_3,bin_2,bin_4,2010
+France,bin_1,bin_4,bin_4,bin_1,bin_2,bin_2,bin_2,bin_3,bin_1,bin_2,bin_3,bin_2,bin_4,bin_1,bin_1,bin_2,bin_3,bin_0,bin_1,bin_0,bin_3,bin_2,2010
+France,bin_2,bin_2,bin_0,bin_2,bin_1,bin_3,bin_3,bin_2,bin_4,bin_2,bin_3,bin_2,bin_4,bin_3,bin_4,bin_3,bin_2,bin_4,bin_4,bin_1,bin_0,bin_3,2010
+France,bin_1,bin_1,bin_3,bin_2,bin_1,bin_2,bin_3,bin_3,bin_1,bin_2,bin_0,bin_4,bin_0,bin_4,bin_4,bin_4,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,2010
+France,bin_4,bin_3,bin_2,bin_4,bin_1,bin_2,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_3,bin_2,bin_4,bin_2,bin_2,bin_2,bin_4,bin_2,bin_2,bin_2,2010
+France,bin_3,bin_1,bin_4,bin_1,bin_4,bin_4,bin_0,bin_0,bin_3,bin_3,bin_1,bin_3,bin_1,bin_1,bin_0,bin_0,bin_4,bin_0,bin_1,bin_0,bin_1,bin_1,2015
+France,bin_4,bin_3,bin_2,bin_3,bin_2,bin_0,bin_4,bin_1,bin_2,bin_1,bin_1,bin_1,bin_0,bin_0,bin_3,bin_1,bin_4,bin_2,bin_4,bin_4,bin_3,bin_2,2015
+France,bin_3,bin_3,bin_4,bin_4,bin_3,bin_0,bin_1,bin_0,bin_2,bin_4,bin_1,bin_1,bin_0,bin_2,bin_2,bin_3,bin_2,bin_1,bin_4,bin_1,bin_1,bin_0,2015
+France,bin_3,bin_4,bin_3,bin_4,bin_2,bin_3,bin_2,bin_2,bin_0,bin_4,bin_4,bin_4,bin_3,bin_2,bin_4,bin_3,bin_1,bin_2,bin_2,bin_0,bin_2,bin_0,2015
+France,bin_3,bin_0,bin_3,bin_0,bin_3,bin_1,bin_0,bin_2,bin_1,bin_1,bin_3,bin_1,bin_1,bin_3,bin_0,bin_3,bin_0,bin_3,bin_2,bin_1,bin_3,bin_0,2015
+France,bin_1,bin_0,bin_0,bin_1,bin_0,bin_2,bin_1,bin_4,bin_0,bin_0,bin_2,bin_4,bin_1,bin_4,bin_0,bin_1,bin_0,bin_2,bin_3,bin_2,bin_1,bin_1,2020
+France,bin_3,bin_3,bin_4,bin_4,bin_3,bin_0,bin_1,bin_2,bin_1,bin_4,bin_3,bin_4,bin_0,bin_4,bin_0,bin_3,bin_3,bin_0,bin_2,bin_4,bin_1,bin_4,2020
+France,bin_0,bin_1,bin_1,bin_0,bin_0,bin_2,bin_0,bin_1,bin_2,bin_4,bin_0,bin_2,bin_1,bin_4,bin_4,bin_4,bin_0,bin_4,bin_1,bin_2,bin_1,bin_0,2020
+France,bin_1,bin_3,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_2,bin_4,bin_3,bin_3,bin_2,bin_3,bin_3,bin_2,bin_3,bin_1,bin_0,bin_1,bin_3,bin_0,2020
+France,bin_0,bin_2,bin_2,bin_0,bin_0,bin_3,bin_1,bin_1,bin_4,bin_2,bin_0,bin_4,bin_4,bin_0,bin_2,bin_1,bin_1,bin_0,bin_1,bin_2,bin_0,bin_4,2020
+Germany,bin_2,bin_3,bin_1,bin_4,bin_0,bin_0,bin_3,bin_3,bin_2,bin_1,bin_4,bin_1,bin_1,bin_4,bin_2,bin_1,bin_0,bin_2,bin_1,bin_4,bin_0,bin_0,2005
+Germany,bin_3,bin_4,bin_4,bin_4,bin_0,bin_0,bin_2,bin_1,bin_2,bin_3,bin_2,bin_0,bin_2,bin_4,bin_1,bin_3,bin_1,bin_3,bin_1,bin_2,bin_3,bin_4,2005
+Germany,bin_0,bin_1,bin_3,bin_0,bin_0,bin_2,bin_3,bin_0,bin_1,bin_2,bin_3,bin_0,bin_2,bin_2,bin_4,bin_4,bin_0,bin_3,bin_2,bin_1,bin_0,bin_4,2005
+Germany,bin_0,bin_4,bin_4,bin_2,bin_1,bin_0,bin_2,bin_2,bin_2,bin_0,bin_4,bin_0,bin_1,bin_2,bin_4,bin_4,bin_3,bin_0,bin_3,bin_2,bin_4,bin_3,2005
+Germany,bin_4,bin_3,bin_0,bin_0,bin_3,bin_2,bin_3,bin_3,bin_3,bin_0,bin_2,bin_1,bin_3,bin_4,bin_2,bin_4,bin_3,bin_3,bin_2,bin_2,bin_1,bin_3,2005
+Germany,bin_3,bin_1,bin_0,bin_2,bin_0,bin_1,bin_2,bin_2,bin_2,bin_0,bin_1,bin_2,bin_1,bin_3,bin_4,bin_3,bin_0,bin_4,bin_0,bin_0,bin_1,bin_4,2010
+Germany,bin_0,bin_0,bin_0,bin_2,bin_4,bin_2,bin_4,bin_2,bin_1,bin_3,bin_2,bin_3,bin_2,bin_4,bin_1,bin_0,bin_1,bin_4,bin_0,bin_4,bin_2,bin_0,2010
+Germany,bin_4,bin_0,bin_1,bin_3,bin_0,bin_0,bin_4,bin_3,bin_3,bin_4,bin_1,bin_3,bin_1,bin_0,bin_2,bin_3,bin_4,bin_1,bin_3,bin_0,bin_0,bin_2,2010
+Germany,bin_2,bin_0,bin_0,bin_4,bin_4,bin_1,bin_4,bin_4,bin_0,bin_2,bin_0,bin_1,bin_0,bin_4,bin_0,bin_3,bin_1,bin_2,bin_0,bin_3,bin_0,bin_1,2010
+Germany,bin_2,bin_2,bin_3,bin_0,bin_0,bin_3,bin_0,bin_0,bin_3,bin_1,bin_4,bin_1,bin_2,bin_3,bin_2,bin_0,bin_1,bin_3,bin_4,bin_0,bin_1,bin_1,2010
+Germany,bin_4,bin_1,bin_3,bin_2,bin_4,bin_0,bin_2,bin_1,bin_0,bin_2,bin_1,bin_3,bin_2,bin_1,bin_3,bin_1,bin_0,bin_2,bin_4,bin_1,bin_2,bin_2,2015
+Germany,bin_2,bin_3,bin_3,bin_0,bin_3,bin_4,bin_0,bin_0,bin_1,bin_0,bin_4,bin_1,bin_1,bin_4,bin_0,bin_0,bin_1,bin_1,bin_0,bin_4,bin_1,bin_0,2015
+Germany,bin_4,bin_0,bin_4,bin_3,bin_1,bin_0,bin_3,bin_3,bin_0,bin_2,bin_2,bin_1,bin_0,bin_4,bin_2,bin_2,bin_1,bin_1,bin_4,bin_2,bin_1,bin_3,2015
+Germany,bin_4,bin_4,bin_1,bin_2,bin_2,bin_0,bin_2,bin_1,bin_4,bin_4,bin_1,bin_3,bin_0,bin_0,bin_0,bin_3,bin_3,bin_0,bin_3,bin_0,bin_4,bin_4,2015
+Germany,bin_1,bin_4,bin_1,bin_1,bin_4,bin_2,bin_4,bin_0,bin_4,bin_2,bin_0,bin_2,bin_4,bin_0,bin_3,bin_4,bin_2,bin_0,bin_3,bin_2,bin_3,bin_3,2015
+Germany,bin_1,bin_1,bin_1,bin_1,bin_4,bin_4,bin_4,bin_3,bin_1,bin_0,bin_2,bin_1,bin_3,bin_3,bin_0,bin_2,bin_4,bin_2,bin_3,bin_2,bin_3,bin_3,2020
+Germany,bin_0,bin_0,bin_4,bin_2,bin_1,bin_2,bin_1,bin_4,bin_4,bin_2,bin_4,bin_0,bin_4,bin_1,bin_0,bin_2,bin_3,bin_3,bin_0,bin_0,bin_1,bin_4,2020
+Germany,bin_4,bin_4,bin_1,bin_2,bin_0,bin_0,bin_4,bin_2,bin_3,bin_2,bin_1,bin_2,bin_4,bin_2,bin_2,bin_1,bin_1,bin_3,bin_1,bin_3,bin_3,bin_3,2020
+Germany,bin_3,bin_0,bin_1,bin_3,bin_0,bin_1,bin_2,bin_4,bin_1,bin_2,bin_4,bin_3,bin_0,bin_3,bin_3,bin_0,bin_2,bin_0,bin_3,bin_0,bin_1,bin_3,2020
+Germany,bin_4,bin_2,bin_3,bin_2,bin_3,bin_0,bin_4,bin_2,bin_0,bin_1,bin_4,bin_0,bin_2,bin_2,bin_2,bin_0,bin_2,bin_2,bin_0,bin_3,bin_0,bin_3,2020
+India,bin_1,bin_4,bin_3,bin_2,bin_2,bin_1,bin_1,bin_2,bin_3,bin_1,bin_4,bin_0,bin_3,bin_1,bin_3,bin_4,bin_3,bin_0,bin_0,bin_4,bin_0,bin_4,2005
+India,bin_1,bin_1,bin_4,bin_2,bin_0,bin_3,bin_4,bin_1,bin_1,bin_1,bin_1,bin_3,bin_1,bin_4,bin_3,bin_2,bin_3,bin_3,bin_1,bin_4,bin_2,bin_3,2005
+India,bin_4,bin_0,bin_3,bin_0,bin_1,bin_3,bin_3,bin_4,bin_3,bin_4,bin_2,bin_0,bin_3,bin_0,bin_3,bin_3,bin_2,bin_4,bin_2,bin_0,bin_0,bin_4,2005
+India,bin_1,bin_1,bin_1,bin_0,bin_2,bin_3,bin_0,bin_0,bin_0,bin_4,bin_1,bin_4,bin_2,bin_1,bin_3,bin_2,bin_4,bin_4,bin_1,bin_0,bin_4,bin_0,2005
+India,bin_2,bin_0,bin_2,bin_4,bin_0,bin_4,bin_3,bin_3,bin_2,bin_2,bin_3,bin_2,bin_4,bin_2,bin_1,bin_1,bin_2,bin_3,bin_4,bin_4,bin_3,bin_0,2005
+India,bin_4,bin_2,bin_0,bin_0,bin_3,bin_1,bin_1,bin_4,bin_1,bin_1,bin_0,bin_4,bin_3,bin_3,bin_0,bin_3,bin_0,bin_1,bin_2,bin_4,bin_4,bin_1,2010
+India,bin_4,bin_4,bin_3,bin_2,bin_1,bin_4,bin_4,bin_2,bin_1,bin_2,bin_0,bin_4,bin_1,bin_3,bin_1,bin_4,bin_2,bin_2,bin_4,bin_1,bin_3,bin_2,2010
+India,bin_2,bin_4,bin_4,bin_3,bin_4,bin_0,bin_2,bin_0,bin_0,bin_3,bin_4,bin_4,bin_4,bin_3,bin_2,bin_2,bin_3,bin_0,bin_3,bin_4,bin_4,bin_4,2010
+India,bin_0,bin_4,bin_0,bin_2,bin_1,bin_4,bin_4,bin_3,bin_4,bin_0,bin_4,bin_4,bin_1,bin_0,bin_0,bin_0,bin_4,bin_0,bin_1,bin_4,bin_4,bin_0,2010
+India,bin_3,bin_4,bin_3,bin_4,bin_1,bin_3,bin_0,bin_2,bin_0,bin_4,bin_0,bin_1,bin_3,bin_0,bin_0,bin_2,bin_2,bin_3,bin_0,bin_2,bin_2,bin_0,2010
+India,bin_0,bin_1,bin_4,bin_3,bin_0,bin_1,bin_0,bin_1,bin_0,bin_4,bin_4,bin_3,bin_0,bin_1,bin_3,bin_4,bin_3,bin_2,bin_3,bin_1,bin_4,bin_1,2015
+India,bin_2,bin_4,bin_2,bin_0,bin_1,bin_0,bin_1,bin_0,bin_3,bin_3,bin_3,bin_2,bin_4,bin_1,bin_3,bin_1,bin_2,bin_4,bin_3,bin_3,bin_1,bin_1,2015
+India,bin_2,bin_2,bin_4,bin_3,bin_2,bin_1,bin_2,bin_2,bin_4,bin_3,bin_3,bin_1,bin_4,bin_1,bin_1,bin_2,bin_3,bin_0,bin_1,bin_0,bin_3,bin_0,2015
+India,bin_1,bin_2,bin_1,bin_3,bin_4,bin_1,bin_4,bin_2,bin_4,bin_1,bin_2,bin_1,bin_0,bin_4,bin_2,bin_0,bin_3,bin_1,bin_4,bin_1,bin_1,bin_4,2015
+India,bin_1,bin_1,bin_4,bin_1,bin_0,bin_1,bin_0,bin_0,bin_4,bin_1,bin_0,bin_0,bin_1,bin_1,bin_3,bin_2,bin_4,bin_4,bin_0,bin_0,bin_2,bin_3,2015
+India,bin_2,bin_1,bin_4,bin_4,bin_0,bin_0,bin_1,bin_3,bin_4,bin_4,bin_3,bin_0,bin_2,bin_2,bin_1,bin_3,bin_3,bin_4,bin_2,bin_1,bin_0,bin_1,2020
+India,bin_1,bin_3,bin_0,bin_2,bin_3,bin_2,bin_4,bin_0,bin_4,bin_3,bin_3,bin_1,bin_2,bin_1,bin_1,bin_0,bin_1,bin_3,bin_1,bin_1,bin_0,bin_2,2020
+India,bin_3,bin_3,bin_4,bin_3,bin_2,bin_0,bin_0,bin_4,bin_4,bin_1,bin_2,bin_3,bin_3,bin_3,bin_2,bin_4,bin_2,bin_4,bin_2,bin_1,bin_1,bin_4,2020
+India,bin_3,bin_1,bin_2,bin_3,bin_1,bin_2,bin_3,bin_3,bin_2,bin_4,bin_2,bin_3,bin_1,bin_2,bin_1,bin_1,bin_1,bin_2,bin_1,bin_3,bin_3,bin_1,2020
+India,bin_0,bin_2,bin_0,bin_0,bin_0,bin_1,bin_2,bin_4,bin_3,bin_4,bin_4,bin_1,bin_2,bin_1,bin_1,bin_2,bin_3,bin_3,bin_0,bin_4,bin_4,bin_2,2020
+South Africa,bin_2,bin_3,bin_0,bin_1,bin_1,bin_2,bin_0,bin_2,bin_0,bin_0,bin_3,bin_4,bin_0,bin_3,bin_4,bin_0,bin_3,bin_1,bin_2,bin_1,bin_0,bin_1,2005
+South Africa,bin_0,bin_3,bin_2,bin_4,bin_0,bin_1,bin_1,bin_0,bin_4,bin_2,bin_4,bin_1,bin_1,bin_4,bin_1,bin_3,bin_0,bin_0,bin_0,bin_1,bin_2,bin_4,2005
+South Africa,bin_2,bin_0,bin_0,bin_4,bin_0,bin_4,bin_3,bin_4,bin_2,bin_0,bin_4,bin_0,bin_3,bin_2,bin_1,bin_1,bin_1,bin_0,bin_1,bin_3,bin_2,bin_1,2005
+South Africa,bin_1,bin_4,bin_4,bin_0,bin_4,bin_1,bin_1,bin_3,bin_4,bin_3,bin_0,bin_1,bin_2,bin_2,bin_3,bin_4,bin_3,bin_2,bin_4,bin_1,bin_3,bin_4,2005
+South Africa,bin_1,bin_3,bin_4,bin_0,bin_3,bin_2,bin_0,bin_4,bin_4,bin_4,bin_2,bin_2,bin_2,bin_0,bin_1,bin_1,bin_4,bin_4,bin_1,bin_0,bin_3,bin_4,2005
+South Africa,bin_3,bin_2,bin_1,bin_2,bin_0,bin_4,bin_4,bin_2,bin_1,bin_3,bin_2,bin_2,bin_1,bin_3,bin_2,bin_2,bin_2,bin_0,bin_4,bin_1,bin_2,bin_1,2010
+South Africa,bin_2,bin_1,bin_3,bin_0,bin_1,bin_3,bin_1,bin_2,bin_0,bin_1,bin_3,bin_0,bin_1,bin_1,bin_0,bin_4,bin_2,bin_2,bin_0,bin_1,bin_4,bin_4,2010
+South Africa,bin_0,bin_4,bin_1,bin_2,bin_0,bin_1,bin_3,bin_1,bin_3,bin_0,bin_3,bin_3,bin_2,bin_3,bin_2,bin_1,bin_3,bin_1,bin_3,bin_4,bin_0,bin_0,2010
+South Africa,bin_1,bin_0,bin_4,bin_1,bin_3,bin_4,bin_4,bin_4,bin_3,bin_1,bin_4,bin_3,bin_2,bin_0,bin_3,bin_3,bin_0,bin_3,bin_4,bin_0,bin_4,bin_4,2010
+South Africa,bin_4,bin_1,bin_0,bin_2,bin_2,bin_2,bin_4,bin_3,bin_2,bin_4,bin_2,bin_3,bin_4,bin_1,bin_0,bin_4,bin_4,bin_4,bin_1,bin_1,bin_0,bin_0,2010
+South Africa,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_1,bin_4,bin_0,bin_4,bin_2,bin_3,bin_1,bin_4,bin_1,bin_0,bin_2,bin_2,bin_3,bin_1,bin_2,bin_1,2015
+South Africa,bin_4,bin_0,bin_2,bin_1,bin_1,bin_4,bin_4,bin_4,bin_0,bin_0,bin_2,bin_1,bin_0,bin_3,bin_4,bin_1,bin_0,bin_0,bin_2,bin_4,bin_3,bin_1,2015
+South Africa,bin_3,bin_1,bin_3,bin_1,bin_3,bin_2,bin_4,bin_1,bin_1,bin_1,bin_4,bin_0,bin_3,bin_2,bin_2,bin_0,bin_4,bin_4,bin_4,bin_1,bin_3,bin_2,2015
+South Africa,bin_2,bin_0,bin_4,bin_0,bin_2,bin_0,bin_0,bin_4,bin_2,bin_4,bin_3,bin_4,bin_0,bin_3,bin_2,bin_3,bin_3,bin_4,bin_3,bin_2,bin_1,bin_1,2015
+South Africa,bin_4,bin_4,bin_0,bin_3,bin_3,bin_1,bin_4,bin_0,bin_1,bin_4,bin_3,bin_0,bin_1,bin_0,bin_4,bin_4,bin_4,bin_0,bin_0,bin_2,bin_3,bin_2,2015
+South Africa,bin_0,bin_3,bin_1,bin_4,bin_4,bin_2,bin_1,bin_0,bin_0,bin_3,bin_3,bin_4,bin_2,bin_4,bin_2,bin_1,bin_4,bin_3,bin_2,bin_4,bin_3,bin_0,2020
+South Africa,bin_3,bin_1,bin_1,bin_3,bin_2,bin_0,bin_0,bin_0,bin_2,bin_0,bin_3,bin_0,bin_0,bin_3,bin_1,bin_3,bin_3,bin_2,bin_2,bin_2,bin_2,bin_2,2020
+South Africa,bin_3,bin_3,bin_0,bin_1,bin_0,bin_2,bin_0,bin_2,bin_0,bin_0,bin_4,bin_3,bin_0,bin_4,bin_2,bin_0,bin_4,bin_1,bin_0,bin_4,bin_0,bin_1,2020
+South Africa,bin_0,bin_3,bin_3,bin_3,bin_4,bin_3,bin_1,bin_2,bin_2,bin_0,bin_3,bin_4,bin_1,bin_0,bin_4,bin_1,bin_0,bin_0,bin_0,bin_0,bin_1,bin_0,2020
+South Africa,bin_3,bin_1,bin_4,bin_1,bin_1,bin_2,bin_3,bin_0,bin_2,bin_0,bin_4,bin_2,bin_1,bin_4,bin_4,bin_4,bin_2,bin_1,bin_4,bin_2,bin_4,bin_1,2020
+UK,bin_1,bin_4,bin_2,bin_4,bin_4,bin_2,bin_3,bin_4,bin_0,bin_0,bin_3,bin_2,bin_4,bin_0,bin_1,bin_2,bin_0,bin_4,bin_4,bin_3,bin_0,bin_4,2005
+UK,bin_2,bin_3,bin_0,bin_4,bin_4,bin_0,bin_0,bin_4,bin_0,bin_0,bin_1,bin_0,bin_1,bin_4,bin_4,bin_4,bin_4,bin_0,bin_2,bin_2,bin_4,bin_0,2005
+UK,bin_2,bin_0,bin_0,bin_1,bin_3,bin_0,bin_1,bin_2,bin_4,bin_4,bin_0,bin_0,bin_1,bin_2,bin_4,bin_1,bin_1,bin_4,bin_1,bin_4,bin_0,bin_1,2005
+UK,bin_0,bin_0,bin_2,bin_1,bin_2,bin_1,bin_1,bin_2,bin_3,bin_0,bin_3,bin_1,bin_2,bin_3,bin_1,bin_1,bin_2,bin_3,bin_0,bin_1,bin_4,bin_4,2005
+UK,bin_2,bin_3,bin_4,bin_0,bin_2,bin_0,bin_0,bin_2,bin_4,bin_2,bin_3,bin_4,bin_0,bin_0,bin_4,bin_4,bin_4,bin_1,bin_4,bin_1,bin_0,bin_1,2005
+UK,bin_3,bin_2,bin_4,bin_2,bin_4,bin_1,bin_3,bin_4,bin_3,bin_1,bin_4,bin_3,bin_0,bin_2,bin_4,bin_0,bin_0,bin_4,bin_3,bin_3,bin_4,bin_2,2010
+UK,bin_0,bin_2,bin_2,bin_3,bin_3,bin_4,bin_3,bin_3,bin_3,bin_1,bin_2,bin_1,bin_4,bin_2,bin_4,bin_3,bin_0,bin_4,bin_0,bin_4,bin_4,bin_4,2010
+UK,bin_3,bin_3,bin_1,bin_1,bin_0,bin_3,bin_3,bin_1,bin_2,bin_3,bin_2,bin_2,bin_4,bin_4,bin_4,bin_3,bin_3,bin_2,bin_3,bin_0,bin_0,bin_3,2010
+UK,bin_4,bin_1,bin_0,bin_3,bin_2,bin_4,bin_3,bin_3,bin_0,bin_2,bin_2,bin_3,bin_2,bin_0,bin_2,bin_4,bin_0,bin_0,bin_1,bin_3,bin_1,bin_0,2010
+UK,bin_2,bin_3,bin_1,bin_4,bin_4,bin_1,bin_2,bin_0,bin_2,bin_2,bin_2,bin_1,bin_0,bin_0,bin_0,bin_3,bin_4,bin_4,bin_1,bin_3,bin_3,bin_1,2010
+UK,bin_2,bin_4,bin_3,bin_4,bin_0,bin_1,bin_2,bin_3,bin_3,bin_2,bin_1,bin_0,bin_1,bin_2,bin_4,bin_1,bin_4,bin_2,bin_4,bin_4,bin_0,bin_1,2015
+UK,bin_4,bin_4,bin_4,bin_3,bin_0,bin_4,bin_3,bin_1,bin_2,bin_0,bin_0,bin_3,bin_1,bin_2,bin_2,bin_3,bin_1,bin_4,bin_0,bin_2,bin_2,bin_4,2015
+UK,bin_3,bin_0,bin_2,bin_3,bin_1,bin_1,bin_4,bin_1,bin_0,bin_0,bin_1,bin_0,bin_4,bin_2,bin_3,bin_2,bin_4,bin_1,bin_4,bin_3,bin_0,bin_0,2015
+UK,bin_0,bin_0,bin_4,bin_0,bin_0,bin_0,bin_3,bin_0,bin_1,bin_1,bin_1,bin_0,bin_0,bin_3,bin_0,bin_2,bin_0,bin_0,bin_2,bin_3,bin_2,bin_3,2015
+UK,bin_1,bin_0,bin_3,bin_3,bin_1,bin_4,bin_0,bin_1,bin_1,bin_2,bin_3,bin_3,bin_2,bin_1,bin_3,bin_1,bin_1,bin_3,bin_3,bin_1,bin_0,bin_2,2015
+UK,bin_3,bin_2,bin_3,bin_2,bin_0,bin_1,bin_3,bin_4,bin_4,bin_2,bin_0,bin_0,bin_3,bin_2,bin_4,bin_2,bin_0,bin_0,bin_4,bin_2,bin_1,bin_3,2020
+UK,bin_2,bin_2,bin_3,bin_2,bin_3,bin_1,bin_1,bin_3,bin_1,bin_3,bin_0,bin_3,bin_4,bin_1,bin_4,bin_0,bin_3,bin_3,bin_3,bin_2,bin_1,bin_1,2020
+UK,bin_0,bin_4,bin_0,bin_2,bin_3,bin_3,bin_2,bin_0,bin_1,bin_3,bin_1,bin_3,bin_4,bin_1,bin_0,bin_2,bin_4,bin_3,bin_3,bin_0,bin_0,bin_1,2020
+UK,bin_3,bin_4,bin_4,bin_0,bin_1,bin_4,bin_1,bin_0,bin_2,bin_3,bin_2,bin_4,bin_1,bin_2,bin_4,bin_4,bin_1,bin_1,bin_1,bin_4,bin_2,bin_0,2020
+UK,bin_4,bin_3,bin_3,bin_2,bin_4,bin_0,bin_2,bin_0,bin_1,bin_2,bin_0,bin_4,bin_3,bin_2,bin_0,bin_3,bin_4,bin_4,bin_4,bin_1,bin_3,bin_3,2020
+USA,bin_3,bin_2,bin_1,bin_3,bin_2,bin_1,bin_1,bin_2,bin_2,bin_1,bin_4,bin_1,bin_3,bin_4,bin_1,bin_1,bin_0,bin_1,bin_2,bin_2,bin_0,bin_2,2005
+USA,bin_1,bin_2,bin_4,bin_1,bin_4,bin_3,bin_1,bin_3,bin_2,bin_4,bin_0,bin_4,bin_2,bin_2,bin_2,bin_4,bin_3,bin_4,bin_1,bin_2,bin_4,bin_3,2005
+USA,bin_2,bin_2,bin_2,bin_1,bin_2,bin_3,bin_2,bin_1,bin_2,bin_1,bin_2,bin_3,bin_1,bin_3,bin_0,bin_2,bin_4,bin_1,bin_1,bin_3,bin_4,bin_2,2005
+USA,bin_0,bin_1,bin_1,bin_2,bin_3,bin_2,bin_0,bin_0,bin_4,bin_4,bin_1,bin_1,bin_0,bin_3,bin_1,bin_4,bin_3,bin_3,bin_3,bin_0,bin_3,bin_1,2005
+USA,bin_4,bin_4,bin_1,bin_0,bin_0,bin_3,bin_2,bin_4,bin_3,bin_4,bin_2,bin_2,bin_3,bin_3,bin_2,bin_0,bin_0,bin_1,bin_2,bin_3,bin_4,bin_3,2005
+USA,bin_2,bin_3,bin_3,bin_3,bin_3,bin_3,bin_4,bin_2,bin_4,bin_0,bin_1,bin_2,bin_4,bin_0,bin_3,bin_0,bin_3,bin_3,bin_2,bin_0,bin_4,bin_1,2010
+USA,bin_0,bin_0,bin_3,bin_3,bin_4,bin_4,bin_1,bin_4,bin_1,bin_3,bin_2,bin_4,bin_0,bin_1,bin_4,bin_1,bin_1,bin_3,bin_2,bin_3,bin_3,bin_3,2010
+USA,bin_0,bin_4,bin_2,bin_1,bin_4,bin_2,bin_4,bin_3,bin_2,bin_0,bin_1,bin_1,bin_4,bin_3,bin_3,bin_4,bin_0,bin_2,bin_3,bin_0,bin_1,bin_1,2010
+USA,bin_4,bin_4,bin_0,bin_4,bin_3,bin_3,bin_0,bin_0,bin_0,bin_3,bin_0,bin_3,bin_2,bin_3,bin_4,bin_1,bin_4,bin_1,bin_1,bin_3,bin_3,bin_0,2010
+USA,bin_2,bin_4,bin_4,bin_1,bin_0,bin_2,bin_2,bin_3,bin_0,bin_4,bin_4,bin_4,bin_4,bin_3,bin_4,bin_2,bin_0,bin_2,bin_0,bin_4,bin_3,bin_3,2010
+USA,bin_3,bin_1,bin_2,bin_3,bin_4,bin_4,bin_1,bin_3,bin_4,bin_3,bin_1,bin_2,bin_0,bin_2,bin_1,bin_2,bin_2,bin_1,bin_0,bin_2,bin_1,bin_3,2015
+USA,bin_1,bin_1,bin_1,bin_3,bin_1,bin_3,bin_4,bin_1,bin_2,bin_4,bin_1,bin_4,bin_1,bin_4,bin_1,bin_0,bin_2,bin_1,bin_3,bin_1,bin_1,bin_0,2015
+USA,bin_1,bin_2,bin_3,bin_3,bin_2,bin_1,bin_3,bin_1,bin_2,bin_1,bin_3,bin_4,bin_0,bin_1,bin_0,bin_2,bin_2,bin_4,bin_0,bin_3,bin_4,bin_3,2015
+USA,bin_3,bin_4,bin_3,bin_3,bin_4,bin_2,bin_3,bin_1,bin_3,bin_2,bin_2,bin_2,bin_4,bin_1,bin_2,bin_0,bin_2,bin_2,bin_3,bin_1,bin_4,bin_0,2015
+USA,bin_3,bin_2,bin_4,bin_1,bin_3,bin_2,bin_3,bin_3,bin_2,bin_3,bin_2,bin_1,bin_2,bin_3,bin_3,bin_2,bin_3,bin_1,bin_1,bin_0,bin_3,bin_1,2015
+USA,bin_0,bin_1,bin_2,bin_4,bin_3,bin_3,bin_1,bin_3,bin_1,bin_3,bin_0,bin_4,bin_4,bin_1,bin_1,bin_2,bin_0,bin_1,bin_2,bin_4,bin_2,bin_3,2020
+USA,bin_3,bin_3,bin_4,bin_0,bin_4,bin_0,bin_1,bin_3,bin_4,bin_2,bin_4,bin_1,bin_0,bin_4,bin_2,bin_3,bin_2,bin_1,bin_4,bin_4,bin_0,bin_3,2020
+USA,bin_2,bin_3,bin_0,bin_2,bin_0,bin_4,bin_3,bin_2,bin_4,bin_3,bin_4,bin_0,bin_3,bin_4,bin_2,bin_2,bin_1,bin_0,bin_1,bin_0,bin_3,bin_3,2020
+USA,bin_0,bin_2,bin_1,bin_1,bin_1,bin_4,bin_4,bin_3,bin_2,bin_0,bin_3,bin_1,bin_0,bin_0,bin_0,bin_2,bin_4,bin_1,bin_3,bin_2,bin_1,bin_3,2020
+USA,bin_0,bin_4,bin_1,bin_1,bin_1,bin_1,bin_4,bin_0,bin_0,bin_2,bin_0,bin_4,bin_3,bin_2,bin_3,bin_3,bin_4,bin_0,bin_1,bin_1,bin_4,bin_1,2020
