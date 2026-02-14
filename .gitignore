@@ -66,3 +66,5 @@ Thumbs.db
 # --- Other ---
 # If using SQLite or local files
 *.sqlite3
+
+data/processed/life_satisfaction_canadian_survey_ml.csv
